@@ -1,16 +1,24 @@
-# expense_tracker
+# Expense Tracker
+Remember what happened to all the salary of this month, and it's not even the month end yet! You don't right? Well, here's a simple yet attractive solution to this problem. Presenting "Expense Tracker", an app developed to help you manage all your expense in the easiest way possible. Features include,
+>Adding expense for any date.
+>Deleting expense for any date.
+>Tracking the expenditure of the current week.
+>Bar graph to indicate the expenditure per day of the week.
 
-A new Flutter project.
+## Clone the repository
+```
+https://github.com/pratik97179/expense_tracker.git
+```
 
-## Getting Started
+## Get dependencies
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](/flutter_01.jpeg)
+![Home](/flutter_02.jpeg)
+![Home](/flutter_03.jpeg)
+![Home](/flutter_04.jpeg)
